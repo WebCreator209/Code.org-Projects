@@ -1,0 +1,26 @@
+body{
+text-align: center;
+background-image:linear-gradient(to right top,rgb(51, 228, 51), rgb(144, 252, 144), lightgreen ) ;
+
+}
+h1{
+font-size: 40px ;
+font-family: Georgia;
+font-weight: 300;
+}
+
+#app{
+background-color: rgb(128, 176, 240);
+
+}
+#game{
+background-color: lightcoral;
+}
+
+.line{
+height: 6px;
+background-color: rgb(221, 114, 114);
+width: 70px;
+margin: 8px auto;
+
+}
